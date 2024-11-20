@@ -52,7 +52,7 @@ function LeftSidebar() {
                   {route.icon} {route.name}
                   {location.pathname === route.path ? (
                     <span
-                      className="absolute inset-y-0 left-0 w-1 rounded-tr-md rounded-br-md bg-red-500 "
+                      className="absolute inset-y-0 left-0 w-1 rounded-tr-md rounded-br-md bg-yellow-200"
                       aria-hidden="true"
                     ></span>
                   ) : null}
