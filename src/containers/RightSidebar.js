@@ -39,6 +39,7 @@ function RightSidebar() {
             >
               <XMarkIcon className="h-5 w-5" />
             </button>
+            <h1>Halo</h1>
             <span className="ml-2 font-bold text-xl">{header}</span>
           </div>
 
